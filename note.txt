@@ -1,0 +1,5 @@
+Create a shortcut on your desktop
+Right-click on the shortcut and click Properties
+Edit the Target property
+Set it to "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C:/ChromeDevSession"
+Start chrome and ignore the message that says --disable-web-security is not supported!
